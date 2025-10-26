@@ -1,0 +1,21 @@
+
+.home-card {
+  max-width: 800px;
+}
+
+.home-card .service-title {
+  font-size: 4rem;
+  margin-bottom: 2rem;
+}
+
+.home-card .service-description {
+  font-size: 1.4rem;
+}
+
+.home-card .service-number {
+  display: none; /* Hide the number for home page */
+}
+
+h1, p{
+  color: white;
+}

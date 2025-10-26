@@ -1,0 +1,20 @@
+/* Apply to all main sections */
+.hero-section, .content-section, .parallax-section {
+  position: relative;
+  width: 100vw;
+  min-height: 100vh;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+
+
+/* Make sure body continues the dark theme */
+body {
+  background-color: #000;
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+}
